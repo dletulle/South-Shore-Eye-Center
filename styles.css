@@ -73,7 +73,7 @@ nav {
 
 .background-image {
   /* Combine the linear gradient and the background image using a comma */
-  background-image: linear-gradient(180deg, #ffffff 5%, rgba(0, 68, 132, 0.39) 30%), url("https://i.imgur.com/ip1WnYz.jpg");
+  background-image: linear-gradient(180deg, #ffffff 5%, rgba(0, 68, 132, 0.39) 30%), url("https://www.southshoreeyecenter.com/img/boat.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
