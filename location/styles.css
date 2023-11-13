@@ -212,11 +212,6 @@ footer {
     margin-left: 20px;
   }
 
-  #map {
-    width: 300px;
-    height: 300px;
-  }
-
   footer {
     flex-wrap: wrap;
   }
