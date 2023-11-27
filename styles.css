@@ -178,7 +178,6 @@ p {
 }
 
 .services-container {
-  padding: 20px;
   display: flex;
   /* Use flexbox to align the cards horizontally */
   flex-wrap: wrap;
